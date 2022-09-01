@@ -1,0 +1,14 @@
+/* Styles go here */
+
+.column {padding: 20px;
+	margin: 10px;
+	border: 1px solid #cccccc;
+	width: 300px;
+	box-shadow : 0 0.5rem 1rem rgb(0 0 0 / 11%) !important;
+	border-radius: 5px;
+}
+
+.column:hover {
+	box-shadow : 0 0.5rem 1rem rgb(0 0 0 / 17%) !important;
+
+}
